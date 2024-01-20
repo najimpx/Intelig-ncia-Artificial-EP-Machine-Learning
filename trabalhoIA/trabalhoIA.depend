@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635984034 source:e:\compiler\trabalhoia\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<cmath>
+	<time.h>
+
